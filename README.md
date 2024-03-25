@@ -1,2 +1,2 @@
 # PD-Patches
-A collection of Pure Data patches
+A collection of homemade Pure Data patches
